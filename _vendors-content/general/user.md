@@ -21,7 +21,7 @@ If all fails you can turn Doze mode off completely.
 
 ## Turn off doze on Android 6.0 and earlier
 
-In **Settings > Developer options**. (If you don't know how to enable developer options, Google should help.)
+In **Settadb shell /data/app/~~OdeYrBqwn7RKjR7k3b7pyg==/moe.shizuku.privileged.api-FH1PG8P2O7elt6uth20OGA==/lib/arm64/libshizuku.soings > Developer options**. (If you don't know how to enable developer options, Google should help.)
 
 ### Turn off doze on Android 7+
 
